@@ -11,7 +11,7 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/shruti-singh-747b90344"><img src="https://img.shields.io/badge/LinkedIn-Let's%20talk-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://leetcode.com/u/ShrutiSingh2007/"><img src="https://img.shields.io/badge/LeetCode-Profile-A855F7?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+<a href="mailto:shruti070107@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-A855F7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://www.geeksforgeeks.org/profile/shruti0gvot"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-C026D3?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
 <a href="https://codolio.com/profile/ShrutiSingh2007"><img src="https://img.shields.io/badge/Codolio-Profile-6D28D9?style=for-the-badge" alt="Codolio" /></a>
 
@@ -147,14 +147,12 @@ flowchart LR
 
 <div align="center">
 
-<img height="190" src="https://raw.githubusercontent.com/Shruti070107/Shruti070107/main/profile-summary-card-output/dracula/3-stats.svg" alt="GitHub stats" />
-<img height="190" src="https://raw.githubusercontent.com/Shruti070107/Shruti070107/main/profile-summary-card-output/dracula/2-most-commit-language.svg" alt="Most used languages" />
-
-<img src="https://streak-stats.demolab.com?user=Shruti070107&hide_border=true&background=0D1117&ring=A855F7&fire=E879F9&currStreakNum=E5E7EB&sideNums=E5E7EB&currStreakLabel=C084FC&sideLabels=C084FC&dates=9CA3AF" alt="GitHub streak" />
+<img src="https://raw.githubusercontent.com/Shruti070107/Shruti070107/main/assets/stats.svg" alt="GitHub snapshot: contributions, merged PRs, repositories, stars and streaks" width="54%" />
+<img src="https://raw.githubusercontent.com/Shruti070107/Shruti070107/main/assets/languages.svg" alt="Languages across my own repositories" width="42%" />
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/Shruti070107/Shruti070107/output/github-snake.svg" alt="Contribution snake animation" width="100%" />
+<img src="https://raw.githubusercontent.com/Shruti070107/Shruti070107/main/assets/snake.svg" alt="Contribution snake eating my contribution graph" width="100%" />
 
 </div>
 
@@ -164,6 +162,7 @@ flowchart LR
 
 <a href="https://www.linkedin.com/in/shruti-singh-747b90344"><img src="https://img.shields.io/badge/LinkedIn-Shruti%20Singh-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/Shruti070107"><img src="https://img.shields.io/badge/GitHub-Shruti070107-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="mailto:shruti070107@gmail.com"><img src="https://img.shields.io/badge/Email-shruti070107@gmail.com-C026D3?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:C026D3,50:7C3AED,100:4C1D95" alt="" width="100%" />
 
