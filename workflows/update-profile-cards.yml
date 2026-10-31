@@ -1,5 +1,4 @@
-name: Update Profile Cards
-
+name: .github/workflows/update-profile-cards.yml
 on:
   schedule:
     - cron: "*/5 * * * *"
