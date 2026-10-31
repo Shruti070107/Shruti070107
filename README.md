@@ -1,106 +1,128 @@
-
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,50:8A2BE2,100:DA70D6&height=220&section=header&text=Shruti%20Singh&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Open-Source%20Contributor&descAlignY=60&descSize=18" width="100%" />
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=B57AFF&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Products+%F0%9F%9A%80;MERN+Stack+Developer;150%2B+Merged+Open-Source+PRs;Turning+Ideas+Into+Real-World+Solutions" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:4C1D95,50:7C3AED,100:C026D3&text=Shruti%20Singh&fontColor=FFFFFF&fontSize=58&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%20Open-Source%20Contributor&descSize=20&descAlignY=58&animation=fadeIn" alt="Shruti Singh - Full-Stack Developer and Open-Source Contributor" width="100%" />
+
+<a href="https://github.com/Shruti070107">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=640&height=40&lines=Building+full-stack+products+with+MERN;Turning+LLM+ideas+into+working+apps;Shipping+clean+APIs+and+polished+interfaces;Open+source+is+where+I+learn+the+most" alt="Typing animation" />
+</a>
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/Shruti070107?style=for-the-badge&logo=github&color=8A2BE2)](https://github.com/Shruti070107)
-[![Profile Views](https://komarev.com/ghpvc/?username=Shruti070107&style=for-the-badge&color=9B59B6)](https://github.com/Shruti070107)
+<a href="https://www.linkedin.com/in/shruti-singh-747b90344"><img src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/Shruti070107"><img src="https://img.shields.io/badge/GitHub-Shruti070107-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 </div>
 
----
+<br/>
 
-## 👩‍💻 About Me
+## ✨ About Me
 
-- Full-Stack Developer passionate about building practical products.
-- Interested in MERN Stack, AI integrations, and developer tools.
-- Completed a Full-Stack Development internship at Codec Technologies.
-- Open-source contributor with **150+ merged PRs**.
-- GSSOC 2026 Project Admin.
-- **1× Hackathon Winner** and **2× National-Level Hackathon Finalist**.
+I'm a **full-stack developer** who enjoys taking an idea from database schema to deployed interface. I work with **React, TypeScript, Node.js, Express and MongoDB**, and I like adding **AI/LLM features** where they make a product genuinely more useful.
+
+- 💼 Completed a **Full-Stack Development internship at Codec Technologies**: frontend work, API integration, MERN apps, Git/GitHub, testing and deployment
+- 🌱 Open-source contributor with **150+ merged PRs**, mostly through **ECSOC**
+- 🔭 Interested in AI-powered applications, developer tools and open source
+
+<br/>
 
 ## 🏆 Achievements
 
-| Achievement | Recognition |
-|---|---|
-| Hackathon Winner | Innovation Odyssey |
-| National-Level Finalist | EliteHer |
-| National-Level Finalist | Drophack |
-| Open Source | 150+ merged PRs |
-| Community Role | GSSOC 2026 Project Admin |
-| Open Source Programs | eCSOC, SSOC 2026 |
+<div align="center">
+
+| 🥇 Hackathon Winner | 🎯 National-Level Hackathon Finalist |
+| :---: | :---: |
+| **Innovation Odyssey** <br/> _1× Winner_ | **EliteHer** · **Drophack** <br/> _2× Finalist_ |
+
+</div>
+
+<br/>
+
+## 🌍 Open Source
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/ECSOC-My%20Main%20Open--Source%20Journey-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="ECSOC - my main open-source journey" />
+<br/><br/>
+<img src="https://img.shields.io/badge/150%2B-Merged%20PRs-C026D3?style=for-the-badge&logo=git&logoColor=white" alt="150+ merged pull requests" />
+
+</div>
+
+> **ECSOC** is where most of my open-source growth happened: reading unfamiliar codebases, working with maintainers, and getting 150+ pull requests merged.
+
+| Program | Role |
+| :-- | :-- |
+| 🟣 **ECSOC** | Contributor — my main open-source journey |
+| 🟪 **SSOC 2026** | Contributor |
+| 🔮 **GSSOC 2026** | Project Admin |
+
+<br/>
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind&theme=dark" alt="Frontend: React, JavaScript, TypeScript, HTML, CSS, Tailwind" />
 
-### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,bootstrap,tailwind" />
+**Backend & Data**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="Backend and data: Node.js, Express, MongoDB" />
 
-### Backend & Databases
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,python,fastapi" />
+**Tools**<br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel&theme=dark" alt="Tools: Git, GitHub, VS Code, Postman, Vercel" />
 
-### Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,postman,vercel,netlify,vscode" />
+<sub>Also working with REST APIs and AI/LLM integrations.</sub>
 
-</div>
+<br/>
 
 ## 🚀 Featured Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| PulsePay | AI-powered payment recovery and intelligence platform | MERN, Python, FastAPI |
-| ReGenX | AI-powered bio-waste logistics and carbon intelligence | AI, Geospatial, Full Stack |
-| NER Landslide Watch | Landslide risk monitoring and early warning platform | GIS, AI/ML, React |
-| CodeLens | AI-powered code intelligence and security platform | Full Stack, AI |
+| Project | What it is | Repo |
+| :-- | :-- | :-- |
+| **PulsePay** | AI-powered payment recovery and intelligence platform | [Repository](https://github.com/Shruti070107/PulsePay) |
+| **ReGenX** | Real-time bio-waste logistics, ESG verification and carbon intelligence platform | [Repository](https://github.com/Shruti070107/ReGenX) |
+| **NER Landslide Watch** | Landslide risk monitoring and early-warning platform | [Repository](https://github.com/Shruti070107/NER-Landslide-Guard) |
+| **CodeLens** | AI-powered code intelligence and security platform | [Repository](https://github.com/Shruti070107/CodeLens) |
 
-## 🌱 Open Source Journey
+<br/>
 
-- 150+ merged pull requests.
-- Contributions through eCSOC and SSOC 2026.
-- GSSOC 2026 Project Admin.
-- Passionate about community collaboration and building in public.
-
-## 📊 GitHub Statistics
+## 📊 Coding Profiles
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shruti070107&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shruti070107&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img width="75%" src="https://streak-stats.demolab.com?user=Shruti070107&theme=tokyonight&hide_border=true" />
+<a href="https://leetcode.com/u/ShrutiSingh2007/"><img src="https://img.shields.io/badge/LeetCode-ShrutiSingh2007-7C3AED?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+<a href="https://www.geeksforgeeks.org/profile/shruti0gvot"><img src="https://img.shields.io/badge/GeeksforGeeks-shruti0gvot-6D28D9?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
+<a href="https://codolio.com/profile/ShrutiSingh2007"><img src="https://img.shields.io/badge/Codolio-ShrutiSingh2007-C026D3?style=for-the-badge" alt="Codolio" /></a>
 
 </div>
 
-## 🐍 Contribution Activity
+<br/>
+
+## 📈 GitHub Stats
 
 <div align="center">
 
-![Contribution Snake](https://raw.githubusercontent.com/Shruti070107/Shruti070107/output/github-contribution-grid-snake-dark.svg)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shruti070107&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB&icon_color=C084FC&ring_color=7C3AED" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shruti070107&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com?user=Shruti070107&hide_border=true&background=0D1117&ring=A78BFA&fire=C084FC&currStreakNum=E5E7EB&sideNums=E5E7EB&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=9CA3AF" alt="GitHub streak" />
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/Shruti070107/Shruti070107/output/github-snake.svg" alt="Contribution snake animation" width="100%" />
 
 </div>
 
-## 🤝 Connect With Me
+<br/>
+
+## 📬 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shruti-singh-747b90344)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/Shruti070107)
+<a href="https://www.linkedin.com/in/shruti-singh-747b90344"><img src="https://img.shields.io/badge/LinkedIn-Shruti%20Singh-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/Shruti070107"><img src="https://img.shields.io/badge/GitHub-Shruti070107-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
-</div>
+<br/><br/>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:C026D3,50:7C3AED,100:4C1D95" alt="" width="100%" />
 
-<div align="center">
-
-### ✨ Build. Learn. Contribute. Repeat.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A5ACD,50:8A2BE2,100:DA70D6&height=110&section=footer" width="100%" />
+<sub>Built with curiosity, coffee and a lot of merged PRs 💜</sub>
 
 </div>
