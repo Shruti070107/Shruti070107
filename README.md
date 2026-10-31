@@ -147,8 +147,8 @@ flowchart LR
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shruti070107&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=E5E7EB&icon_color=A855F7&ring_color=7C3AED" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shruti070107&layout=compact&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=E5E7EB" alt="Top languages" />
+<img height="190" src="https://raw.githubusercontent.com/Shruti070107/Shruti070107/main/profile-summary-card-output/dracula/3-stats.svg" alt="GitHub stats" />
+<img height="190" src="https://raw.githubusercontent.com/Shruti070107/Shruti070107/main/profile-summary-card-output/dracula/2-most-commit-language.svg" alt="Most used languages" />
 
 <img src="https://streak-stats.demolab.com?user=Shruti070107&hide_border=true&background=0D1117&ring=A855F7&fire=E879F9&currStreakNum=E5E7EB&sideNums=E5E7EB&currStreakLabel=C084FC&sideLabels=C084FC&dates=9CA3AF" alt="GitHub streak" />
 
