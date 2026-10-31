@@ -70,7 +70,7 @@ flowchart LR
   <tr>
     <td align="center" width="220">
       <h3>🟣 ECSOC</h3>
-      <sub>Contributor</sub>
+      <sub>Contributor (Top 20 Participant)</sub>
     </td>
     <td align="center" width="220">
       <h3>🔮 SSOC 2026</h3>
