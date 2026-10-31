@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Shruti Singh - Full-Stack builder, AI-curious, open-source regular" width="100%" />
+<img src="https://raw.githubusercontent.com/Shruti070107/Shruti070107/main/assets/banner.svg" alt="Shruti Singh - Full-Stack builder. 150+ merged PRs, hackathon winner, 2x national finalist." width="100%" />
+
+<img src="https://raw.githubusercontent.com/Shruti070107/Shruti070107/main/assets/ticker.svg" alt="React, TypeScript, Node.js, Express, MongoDB, REST APIs, LLM integrations, Git and GitHub, open source" width="100%" />
 
 <a href="https://github.com/Shruti070107">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1200&color=C084FC&center=true&vCenter=true&width=680&height=40&lines=Building+full-stack+products+with+MERN;Turning+LLM+ideas+into+working+apps;Shipping+clean+APIs+and+polished+interfaces;150%2B+merged+PRs+and+counting" alt="Typing animation" />
@@ -15,7 +17,7 @@
 
 </div>
 
-<br/>
+<img src="https://raw.githubusercontent.com/Shruti070107/Shruti070107/main/assets/divider.svg" alt="" width="100%" />
 
 ## 🧬 whoami
 
@@ -32,7 +34,7 @@ const shruti = {
 };
 ```
 
-<br/>
+<img src="https://raw.githubusercontent.com/Shruti070107/Shruti070107/main/assets/divider.svg" alt="" width="100%" />
 
 ## ⚙️ How I build
 
@@ -54,7 +56,7 @@ flowchart LR
 
 </div>
 
-<br/>
+<img src="https://raw.githubusercontent.com/Shruti070107/Shruti070107/main/assets/divider.svg" alt="" width="100%" />
 
 ## 🌍 Open Source Arena
 
@@ -83,7 +85,7 @@ flowchart LR
 
 </div>
 
-<br/>
+<img src="https://raw.githubusercontent.com/Shruti070107/Shruti070107/main/assets/divider.svg" alt="" width="100%" />
 
 ## 🏆 Trophy Cabinet
 
@@ -104,7 +106,7 @@ flowchart LR
 
 </div>
 
-<br/>
+<img src="https://raw.githubusercontent.com/Shruti070107/Shruti070107/main/assets/divider.svg" alt="" width="100%" />
 
 ## 🚀 Build Log
 
@@ -139,7 +141,7 @@ flowchart LR
 
 </div>
 
-<br/>
+<img src="https://raw.githubusercontent.com/Shruti070107/Shruti070107/main/assets/divider.svg" alt="" width="100%" />
 
 ## 📊 Stats
 
@@ -156,7 +158,7 @@ flowchart LR
 
 </div>
 
-<br/>
+<img src="https://raw.githubusercontent.com/Shruti070107/Shruti070107/main/assets/divider.svg" alt="" width="100%" />
 
 <div align="center">
 
