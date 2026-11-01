@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Shruti070107/Shruti070107/main/assets/banner.svg" alt="Shruti Singh - Full-Stack builder. 150+ merged PRs, hackathon winner, 2x national finalist." width="100%" />
+<img src="https://raw.githubusercontent.com/Shruti070107/Shruti070107/main/assets/banner.svg" alt="Shruti Singh - Full-Stack builder. 150+ merged PRs,1x hackathon winner, 2x National Hackathon Finalist." width="100%" />
 
 <img src="https://raw.githubusercontent.com/Shruti070107/Shruti070107/main/assets/ticker.svg" alt="React, TypeScript, Node.js, Express, MongoDB, REST APIs, LLM integrations, Git and GitHub, open source" width="100%" />
 
