@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 791 186" width="791" height="186" role="img" aria-label="Contribution snake">
 <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#C084FC"/><stop offset="1" stop-color="#F0ABFC"/></linearGradient><linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7C3AED"/><stop offset="1" stop-color="#C026D3"/></linearGradient><filter id="glow" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
 <rect x="1" y="1" width="789" height="184" rx="18" fill="#0D1117" stroke="url(#b)" stroke-width="2"/>
-<text x="26" y="36" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="800" fill="url(#g)">934 contributions in the last year</text>
+<text x="26" y="36" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="800" fill="url(#g)">939 contributions in the last year</text>
 <text x="765" y="36" text-anchor="end" font-family="Consolas, 'Courier New', monospace" font-size="11" fill="#6B7280">updated 02 Nov 2026</text>
 <rect x="26" y="62" width="11" height="11" rx="3" fill="#1E1B2E"/>
 <rect x="26" y="76" width="11" height="11" rx="3" fill="#1E1B2E"/>
