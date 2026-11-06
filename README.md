@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Shruti070107/Shruti070107/main/assets/banner.svg" alt="Shruti Singh - Full-Stack builder. 150+ merged PRs,1x hackathon winner, 2x National Hackathon Finalist." width="100%" />
+<img src="https://raw.githubusercontent.com/Shruti070107/Shruti070107/main/assets/banner.svg" alt="Shruti Singh - Full-Stack builder. 150+ merged PRs, hackathon winner, 2x national finalist." width="100%" />
 
 <img src="https://raw.githubusercontent.com/Shruti070107/Shruti070107/main/assets/ticker.svg" alt="React, TypeScript, Node.js, Express, MongoDB, REST APIs, LLM integrations, Git and GitHub, open source" width="100%" />
 
@@ -13,6 +13,11 @@
 <a href="https://www.linkedin.com/in/shruti-singh-747b90344"><img src="https://img.shields.io/badge/LinkedIn-Let's%20talk-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:shruti070107@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-A855F7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://www.geeksforgeeks.org/profile/shruti0gvot"><img src="https://img.shields.io/badge/GeeksforGeeks-Profile-C026D3?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
+<a href="https://codolio.com/profile/ShrutiSingh2007"><img src="https://img.shields.io/badge/Codolio-Profile-6D28D9?style=for-the-badge" alt="Codolio" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Shruti070107&label=Profile+views&color=7C3AED&style=for-the-badge" alt="Profile views" />
 
 </div>
 
@@ -69,7 +74,7 @@ flowchart LR
   <tr>
     <td align="center" width="220">
       <h3>🟣 ECSOC</h3>
-      <sub>Contributor (Top 20 Participant)</sub>
+      <sub>Contributor</sub>
     </td>
     <td align="center" width="220">
       <h3>🔮 SSOC 2026</h3>
