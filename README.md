@@ -65,7 +65,7 @@ flowchart LR
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/150%2B-Merged%20Pull%20Requests-C026D3?style=for-the-badge&logo=git&logoColor=white" alt="150+ merged pull requests" />
+<img src="https://img.shields.io/badge/200%2B-Merged%20Pull%20Requests-C026D3?style=for-the-badge&logo=git&logoColor=white" alt="150+ merged pull requests" />
 
 <br/><br/>
 
