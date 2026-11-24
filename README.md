@@ -31,7 +31,7 @@ const shruti = {
   superpower: "taking an idea from schema to shipped UI",
   experience: "Full-Stack Intern @ Codec Technologies",
   curious: ["AI/LLM integrations", "developer tools", "open source"],
-  openSource: { mergedPRs: "150+", programs: ["ECSOC", "SSOC 2026", "GSSOC 2026"] },
+  openSource: { mergedPRs: "200+", programs: ["ECSOC", "SSOC 2026", "GSSOC 2026"] },
   hackathons: { won: 1, nationalFinalist: 2 },
   mission: "turn ideas into products people can actually use",
 };
